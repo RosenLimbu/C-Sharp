@@ -1,0 +1,9 @@
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\bin\Debug\RosenLimbu_CPRG200_Lab1.exe.config
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\bin\Debug\RosenLimbu_CPRG200_Lab1.exe
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\bin\Debug\RosenLimbu_CPRG200_Lab1.pdb
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.csprojResolveAssemblyReference.cache
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.Form1.resources
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.Properties.Resources.resources
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.csproj.GenerateResource.Cache
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.exe
+c:\users\438377\documents\visual studio 2015\Projects\RosenLimbu_CPRG200_Lab1\RosenLimbu_CPRG200_Lab1\obj\Debug\RosenLimbu_CPRG200_Lab1.pdb
