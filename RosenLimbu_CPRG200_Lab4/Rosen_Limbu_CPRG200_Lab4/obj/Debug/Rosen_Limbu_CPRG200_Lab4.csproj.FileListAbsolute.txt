@@ -1,0 +1,13 @@
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\Rosen_Limbu_CPRG200_Lab4.exe.config
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\northwnd.mdf
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\northwnd_log.ldf
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\Rosen_Limbu_CPRG200_Lab4.exe
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\Rosen_Limbu_CPRG200_Lab4.pdb
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.Properties.Resources.resources
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.csproj.GenerateResource.Cache
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.exe
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.pdb
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.MainForm.resources
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\obj\Debug\Rosen_Limbu_CPRG200_Lab4.ModifyForm.resources
+C:\Users\438377\Documents\Visual Studio 2015\Projects\Rosen_Limbu_CPRG200_Lab4\Rosen_Limbu_CPRG200_Lab4\bin\Debug\NorthWindDB.cs
