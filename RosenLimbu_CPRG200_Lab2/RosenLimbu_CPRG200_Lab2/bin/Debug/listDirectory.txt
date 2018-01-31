@@ -1,0 +1,4 @@
+1,           Rosen, R, 58
+2,           David, C, 60.225
+3,           Timothy, I, 129.715
+4,           Sabrina, C, 150
